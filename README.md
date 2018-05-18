@@ -1,3 +1,3 @@
-# Mobile-robot-
+# Mobile-robot
 
-this repo contians arduino code for controlling mobile robot using PID controller.
+This repo contians Arduino code for controlling a differential drive robot using a PID controller.
